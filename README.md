@@ -1,2 +1,2 @@
 # Doceska
-https://katarina2008.github.io/Doceska/doceska.html
+https://katarina2008.github.io/Doceska/Doceska.html
